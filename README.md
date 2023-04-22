@@ -1,4 +1,4 @@
-# SC1015
+# Data Science Salary Analysis
 
 Predicting the salaries for data science job postings is a complex task, as there are numerous factors that can influence the salary range for a given job title and location. However, by analyzing a large dataset of job postings and salaries, we can develop a model that accurately predicts the salary range for a job posting based on the features of the job title, location, industry, and other relevant factors.
 
